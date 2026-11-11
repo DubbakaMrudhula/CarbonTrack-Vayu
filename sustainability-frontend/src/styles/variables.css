@@ -1,0 +1,51 @@
+:root {
+  --color-bg: #F6F8F7;
+  --color-surface: #FFFFFF;
+  --color-surface-subtle: #F1F5F3;
+  --color-surface-sage: #E6F4EC;
+  --color-border: #DCE5E0;
+  --color-border-strong: #C2D1C9;
+  --color-text: #111815;
+  --color-text-muted: #55665E;
+  --color-accent: #166534;
+  --color-accent-hover: #14532D;
+  --color-accent-dark: #0E3B20;
+  --color-accent-bright: #16A34A;
+  --color-accent-tint: rgba(22, 101, 52, 0.08);
+  --color-accent-tint-strong: rgba(22, 101, 52, 0.14);
+  --color-danger: #B91C1C;
+  --color-danger-bg: #FEF2F2;
+  --color-success: #15803D;
+  --color-success-bg: #F0FDF4;
+  --color-warning: #B45309;
+  --color-warning-bg: #FFFBEB;
+
+  /* Category data visualization palette */
+  --color-cat-transport: #15803D;
+  --color-cat-electricity: #D97706;
+  --color-cat-food: #0D9488;
+  --color-cat-shopping: #475569;
+
+  --radius-control: 8px;
+  --radius-card: 12px;
+  --radius-label: 6px;
+  --radius-pill: 999px;
+
+  --shadow-subtle: 0 1px 2px rgba(17, 24, 21, 0.04);
+  --shadow-card: 0 2px 6px rgba(17, 24, 21, 0.04), 0 1px 2px rgba(17, 24, 21, 0.03);
+
+  --font-family-system: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-size-base: 14.5px;
+  --line-height-base: 1.5;
+
+  --spacing-1: 4px;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --spacing-5: 20px;
+  --spacing-6: 24px;
+  --spacing-8: 32px;
+  --spacing-12: 48px;
+
+  --transition-speed: 140ms;
+}
